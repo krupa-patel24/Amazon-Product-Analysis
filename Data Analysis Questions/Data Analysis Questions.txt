@@ -1,0 +1,34 @@
+- Which main category has the highest number of products?
+
+
+- Which category has the lowest product count?
+
+
+- Which category has the highest average rating?
+
+
+- Does the category with the most products also have the best ratings?
+
+
+- Which product has the highest number of reviews?
+
+
+- Do products with more reviews also tend to have higher ratings?
+
+
+- Which category offers the highest average discount percentage?
+
+
+- Which category has the lowest discount percentage?
+
+
+- Which price range has the largest number of products?
+
+
+- Which price range has the highest average rating?
+
+
+- Which price range has the highest average number of reviews?
+
+
+- Which category has the highest average discounted price (revenue potential)?
