@@ -1,0 +1,38 @@
+Amazon Data Insights
+
+
+Category Distribution
+
+Electronics has the largest number of products showing it’s the most dominant category.
+
+Toys & Games has the smallest number of products which means it’s more niche compared to others.
+
+
+Ratings
+
+Office Products have the highest average rating which shows customers are very satisfied with them.
+
+Electronics not only have the most products but also keep a good average rating of 4.1, proving consistency in quality.
+
+
+Reviews
+
+Home & Kitchen products get the most reviews which means they are very popular and widely used.
+
+This category also has a strong average rating of 4.0, showing trust from customers.
+
+
+Discounts
+
+Electronics offer the biggest discounts which suggests sellers use promotions to attract buyers in this category.
+
+Toys & Games have the lowest discounts meaning they rely less on promotions.
+
+
+Price Range
+
+The low-price range has the highest number of products showing that affordability is a big focus for Amazon’s marketplace.
+
+Revenue Potential
+
+Electronics lead again with the highest average discounted price making them the top category for revenue potential.
